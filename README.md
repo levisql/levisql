@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FFFFFF&center=true&repeat=false&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Levi.;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Levi.;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <h3>Onde me encontrar</h3>
 
